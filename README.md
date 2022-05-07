@@ -1,16 +1,26 @@
 ### Hi there 👋
 
-<!--
-**Orajt/Orajt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Marcin. I am looking for my first job as Junior .NET Developer or Full Stack Developer with .NET and React. I'm open to your job offer.
 
-Here are some ideas to get you started:
+If you have any questions or job offer please send me an email: marcin.jasiukiewicz1993@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---------------------------------------------------------------------------------------------------------------------------
+
+### Technology stack:
+
+* .NET Core
+* Entity Framework Core
+* SQL
+* NUnit
+* React
+* Typescript
+* HTML
+* CSS
+* GitHub
+
+------------------------------------------------------------------------------------------------------------------------------
+### Now im working on..
+
+* Writing clean code: I'm currently working on refactor my code in ProductionSupportApp to be more clean and testable.
+* Improve my algorithms: I'm using Codility and Codewars to learn how to improve performance of my functions. 
+* Write sql statements: In my previous projects i used Entity Framework Core to read and write to database. Now im trying to use sql to get same results.
