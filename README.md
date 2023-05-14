@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Marcin. I am looking for my first job as Junior .NET Developer or Full Stack Developer with .NET and React. I'm open to your job offer.
+My name is Marcin. I started as backend .NET Developer which i enjoy most, but during my IT journey i gained a lot of frontend skills with both Angular and React. I really like solving problmes and discuss about soltuions. I am motivated to develop my skills and grow professionally in web development.
 
 If you have any questions or job offer please send me an email: marcin.jasiukiewicz1993@gmail.com
 
@@ -10,17 +10,15 @@ If you have any questions or job offer please send me an email: marcin.jasiukiew
 
 * .NET Core
 * Entity Framework Core
+* Mass transit
 * SQL
-* NUnit
+* MSTests
+* Angular
 * React
 * Typescript
-* HTML
-* CSS
 * GitHub
 
 ------------------------------------------------------------------------------------------------------------------------------
 ### Now im working on..
-
-* Writing clean code: I'm currently working on refactor my code in ProductionSupportApp to be more clean and testable.
-* Improve my algorithms: I'm using Codility and Codewars to learn how to improve performance of my functions. 
+* Learning more DevOps related things, because thats the part of developing where I dont have much knowledge.
 * Write sql statements: In my previous projects i used Entity Framework Core to read and write to database. Now im trying to use sql to get same results.
